@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thouseef Hamza T P</h1>
 <h3 align="center">A Passionate PythonFullStack(Django+React)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thousi731&label=Profile%20views&color=0e75b6&style=flat" alt="thousi731" /> </p>
-
 - 🔭 I’m currently working on **Game Py**
 
 - 🌱 I’m currently learning **React**
