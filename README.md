@@ -75,15 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=THOUSI731&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=15&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
