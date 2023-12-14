@@ -1,7 +1,5 @@
-![Screenshot 2023-12-14 230459]()
-
 <div align="center">
-  <img height="150" src="https://github.com/THOUSI731/Doodle-Backend/assets/119723781/6b425a7f-8fed-41c2-bf4a-08b716260c92"  />
+  <img height="150" width="100%" src="https://github.com/THOUSI731/Doodle-Backend/assets/119723781/6b425a7f-8fed-41c2-bf4a-08b716260c92"  />
 </div>
 <h1 align="center">Hi 👋, I'm Thouseef Hamza T P</h1>
 <h3 align="center">A Passionate Django + React developer from India</h3>
