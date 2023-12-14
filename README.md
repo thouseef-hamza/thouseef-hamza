@@ -1,11 +1,7 @@
 <div align="center">
   <img width="100%" src="https://github.com/THOUSI731/Doodle-Backend/assets/119723781/2b8d07b0-49c9-4253-b1a6-e2fc6990c0fe"  />
 </div>
-<h1 align="center">Hi 👋, I'm Thouseef Hamza T P</h1>
-<h3 align="center">A Passionate Django + React developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thousi731" alt="thousi731" /></a> </p>
-
+<h3 align="left">About Me</h3>
 - 🔭 I’m currently working on [Doodle - Backend](https://github.com/THOUSI731/Doodle-Backend)
 
 - 🌱 I’m currently learning **Django-Channels**
