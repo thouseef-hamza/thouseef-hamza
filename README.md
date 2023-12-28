@@ -139,6 +139,11 @@
        <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
       <br>JWT
     </td>
+    </td>
+      <td align="center" width="96">
+       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/0ba3427b-823d-417a-b363-ba71a8bf708d" alt="icon" width="62" height="62"  />
+      <br>Agora
+    </td>
  </tr>
 </table>
 <br><br>
