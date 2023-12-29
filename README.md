@@ -144,6 +144,11 @@
        <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/0ba3427b-823d-417a-b363-ba71a8bf708d" alt="icon" width="62" height="62"  />
       <br>Agora
     </td>
+    </td>
+      <td align="center" width="96">
+       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/5eeac37f-2378-4d06-9399-29dd46554ce9" alt="icon" width="62" height="62"  />
+      <br>PyTest
+    </td>
  </tr>
 </table>
 <br><br>
