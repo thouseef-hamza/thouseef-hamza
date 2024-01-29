@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Doodle - Backend](https://github.com/THOUSI731/Doodle-Backend)
 - 🔭 I’m currently working on [Doodle - Frontend](https://github.com/THOUSI731/Doodle-Frontend)
 - 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React**
-- 📫 How to reach me **thousithouseef731@gmail.com**
+- 📫 How to reach me **thouseefhamzatp101@gmail.com**
 - 📄 Know about my experiences [https://flowcv.me/thouseef](https://flowcv.me/thouseef)
 - ⚡ Interest **Blog- Dev,Medium**
 
