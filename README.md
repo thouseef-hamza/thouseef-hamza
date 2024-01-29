@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/THOUSI731/Doodle-Backend/assets/119723781/2b8d07b0-49c9-4253-b1a6-e2fc6990c0fe"  />
+  <img width="100%" src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/0551e0a2-32ef-440a-9335-ca40f3e0b797"  />
 </div>
 <h3 align="left">About Me</h3>
 <p align="left"></p>
