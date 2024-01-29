@@ -3,18 +3,13 @@
 </div>
 <h3 align="left">About Me</h3>
 <p align="left"></p>
-   - 🌱 I’m currently learning Django-Channels
 
+- 🌱 I’m currently learning Django-Channels
 - 🔭 I’m currently working on [Doodle - Backend](https://github.com/THOUSI731/Doodle-Backend)
-
 - 🔭 I’m currently working on [Doodle - Frontend](https://github.com/THOUSI731/Doodle-Frontend)
-
 - 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React**
-
 - 📫 How to reach me **thousithouseef731@gmail.com**
-
 - 📄 Know about my experiences [https://flowcv.me/thouseef](https://flowcv.me/thouseef)
-
 - ⚡ Interest **Blog- Dev,Medium**
 
 <h3 align="left">Connect with me:</h3>
