@@ -147,8 +147,8 @@
  </tr>
 </table>
 <br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=THOUSI731&show_icons=true&locale=en&layout=compact" alt="thousi731" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thouseef-hamza&show_icons=true&locale=en&layout=compact" alt="thousi731" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=THOUSI731&" alt="thousi731" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thouseef-hamza&" alt="thousi731" /></p>
   
 
