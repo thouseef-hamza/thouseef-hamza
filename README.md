@@ -145,6 +145,16 @@
       <br>PyTest
     </td>
  </tr>
+  <tr>
+     <td>
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td>
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+  </tr>
 </table>
 <br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thouseef-hamza&show_icons=true&locale=en&layout=compact" alt="thousi731" /></p>
