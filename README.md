@@ -4,10 +4,9 @@
 <h3 align="left">About Me</h3>
 <p align="left"></p>
 
-- 🌱 I’m currently learning Django-Channels
-- 🔭 I’m currently working on [Doodle - Backend](https://github.com/thouseef-hamza/Doodle-Backend)
-- 🔭 I’m currently working on [Doodle - Frontend](https://github.com/thouseef-hamza/Doodle-Frontend)
-- 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React**
+- 🌱 I’m currently learning Vue-JS
+- 🔭 I’m currently working on Procurement Project
+- 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React JS, Redux, Vue JS**
 - 📫 How to reach me **thouseefhamza.codes@gmail.com**
 - 📄 Know about my experiences [https://flowcv.me/thouseef-django-react-developer](https://flowcv.me/thouseef-django-react-developer)
 - ⚡ Interest **Blog- Dev,Medium**
