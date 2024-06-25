@@ -157,6 +157,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" alt="icon" width="65" height="65" />
       <br>Vue JS
     </td>
+    <td>
+      <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="icon" width="65" height="65" />
+      <br>Node JS
+    </td>
   </tr>
 </table>
 <br><br>
