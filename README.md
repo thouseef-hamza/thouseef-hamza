@@ -161,6 +161,10 @@
       <img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="icon" width="65" height="65" />
       <br>Node JS
     </td>
+    <td>
+      <img align="center" src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/55b5a12d-c566-49bf-818e-6a6735284350" alt="icon" width="50" height="50" />
+      <br>ExpressJS
+    </td>
   </tr>
 </table>
 <br><br>
