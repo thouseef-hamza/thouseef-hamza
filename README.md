@@ -4,8 +4,8 @@
 <h3 align="left">About Me</h3>
 <p align="left"></p>
 
-- 🌱 I’m currently learning Vue-JS
-- 🔭 I’m currently working on Procurement Project
+- 🌱 I’m currently learning NodeJS/ExpressJS
+- 🔭 I’m currently working on Procurement Project & Student Management System Parallely
 - 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React JS, Redux, Vue JS**
 - 📫 How to reach me **thouseefhamza.codes@gmail.com**
 - 📄 Know about my experiences [https://flowcv.me/thouseef-django-react-developer](https://flowcv.me/thouseef-django-react-developer)
