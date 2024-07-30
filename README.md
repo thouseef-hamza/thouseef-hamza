@@ -162,9 +162,15 @@
       <br>Node JS
     </td>
     <td>
-      <img align="center" src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/55b5a12d-c566-49bf-818e-6a6735284350" alt="icon" width="50" height="50" />
+      <img  src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/55b5a12d-c566-49bf-818e-6a6735284350" alt="icon" width="65" height="65" />
       <br>ExpressJS
     </td>
+    <td>
+      <img  src="https://github.com/user-attachments/assets/8b8130b9-04b4-420d-ad0e-cea85b35136a" alt="icon" width="65" height="65" />
+      <br>Sequelize
+    </td>
+
+    
   </tr>
 </table>
 <br><br>
