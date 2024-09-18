@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/0551e0a2-32ef-440a-9335-ca40f3e0b797"  />
+  <img width="100%" src="https://github.com/user-attachments/assets/a95bebf8-6985-4eaa-9224-af9d804cc737"  />
 </div>
 <h3 align="left">About Me</h3>
 <p align="left"></p>
