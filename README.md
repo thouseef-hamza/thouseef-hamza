@@ -4,7 +4,7 @@
 <h3 align="left">About Me</h3>
 <p align="left"></p>
 
-- 🌱 I’m currently learning NodeJS/ExpressJS
+- 🌱 I’m currently learning System Design & DSA
 - 🔭 I’m currently working on Procurement Project & Student Management System Parallely
 - 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React JS, Redux, Vue JS**
 - 📫 How to reach me **thouseefhamza.codes@gmail.com**
