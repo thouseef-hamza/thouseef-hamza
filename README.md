@@ -4,11 +4,10 @@
 <h3 align="left">About Me</h3>
 <p align="left"></p>
 
-- 🌱 I’m currently learning System Design & DSA
-- 🔭 I’m currently working on Procurement Project & Student Management System Parallely
-- 💬 Ask me about **Python, Django, Django REST Framework, REST API, Javascript, React JS, Redux, Vue JS**
+- 🌱 I’m currently learning NestJS, Langchain, Langraph
+- 🔭 I’m currently working on AI Sales Agent
+- 💬 Ask me about **Python, Django, REST API, Javascript, React JS, Redux, Vue JS, NodeJS, NestJS, ExpressJS, NextJS, Zustand**
 - 📫 How to reach me **thouseefhamza.codes@gmail.com**
-- 📄 Know about my experiences [https://flowcv.me/thouseef-django-react-developer](https://flowcv.me/thouseef-django-react-developer)
 - ⚡ Interest **Blog- Dev,Medium**
 
 <h3 align="left">Connect with me:</h3>
