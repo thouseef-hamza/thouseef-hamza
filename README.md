@@ -28,6 +28,12 @@
       </a>
       <br>Python
     </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img width="125" height="125" alt="Image" src="https://github.com/user-attachments/assets/e68a9f47-bc7d-4f72-ae6a-b2d41a37b175" />
+      </a>
+      <br>Ruby
+    </td>
     <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
