@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thousi_731" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thousi-thouseef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thousi-thouseef" height="30" width="40" /></a>
-<a href="https://instagram.com/thousii_554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thousii_554" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thouseef-hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thouseef-hamza" height="30" width="40" /></a>
+<a href="https://instagram.com/thauseeef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thauseeef" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thousi_731" height="30" width="40" /></a>
 </p>
 
